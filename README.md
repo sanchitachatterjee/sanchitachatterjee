@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchitachatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="sanchitachatterjee" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 📫 How to reach me **sanchitachatterjee42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
