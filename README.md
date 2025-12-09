@@ -41,8 +41,4 @@
 </p>
 </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitachatterjee&show_icons=true&locale=en&layout=compact" alt="sanchitachatterjee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitachatterjee&show_icons=true&locale=en" alt="sanchitachatterjee" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitachatterjee&" alt="sanchitachatterjee" /></p>
